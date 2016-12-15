@@ -9,18 +9,24 @@ Hi
 < Hi, How can I help?
 * greeting
 
-How can I join the predictive services pilot
-* Ask_PVS/signup
+How can I [join](signup) the predictive services pilot
+* Ask_PS/signup
 
-< PVS is currently available.
+< Which Predictive Service are you interested in?
+* Prompt/Product
+
+The [Predictive Vision Service](product)
+* ask_PS/conditions
+
+^ [PVS](product) is currently available.
 ^ Users can sign up at http://metamind.io/signup and authenticate with both their Force.com or Heroku credentials
-* Answer_PVS/Signup
+* Answer_PS/Signup
 
-thanks, are there instructions for downloading a cert and getting a JWT Token?
-* Ask_PVS/Docs
+thanks, are there [instructions](docs) for downloading a cert and getting a JWT Token?
+* Ask_PS/Docs
 
 < Yes, Visit http://docs.metamind.io/docs/what-you-need-to-call-api to learn more
-* Answer_PVS/Docs
+* Answer_PS/Docs
 
 Perfect thanks!
 * affirmative/accept
