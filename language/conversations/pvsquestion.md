@@ -20,20 +20,19 @@ quick question
 * Answer_Question
 
 Can you tell me more about PVS?
-* Ask_PVS/About
+* Ask_PVS/Info
 
 < Sure, PVS is our new [Predictive Vision Service](Entity#Product)
-^
-< PVS enables users to easily build image recognition applications through our simple custom classification API
-^
-< You can sign up by visiting MetaMind.io and clicking on the sign-up button in the top right corner
+^ PVS enables users to easily build image recognition applications through our simple custom classification API
+^ You can sign up by visiting MetaMind.io and clicking on the sign-up button in the top right corner
 * Answer_PVS/Info
 
 Is Predictive Vision currently available?
-* Ask_PVS/Availability
+* Ask_PVS/signup
 
-^ Users can sign up by visiting MetaMind.io and clicking on the sign up button in the top right corner
-* Answer_PVS/HomePage
+< PVS is currently available.
+^ Users can sign up at http://metamind.io/signup and authenticate with both their Force.com or Heroku credentials
+* Answer_PVS/Signup
 
 Is there Documentation available?
 * Ask_PVS/Docs
