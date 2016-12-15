@@ -13,28 +13,24 @@ Good thanks.
 * greeting
 
 How can I join the predictive services pilot
-* pvs/signup
+* Ask_PVS/signup
 
-PVS is currently in an open pilot.
-* pvs/signup
-
-^ Users can sign up at http://metamind.io/signup and authenticate with both Force.com or Heroku credentials
-* pvs/signup
+< PVS is currently available.
+^ Users can sign up at http://metamind.io/signup and authenticate with both their Force.com or Heroku credentials
+* Answer_PVS/Signup
 
 thanks, are there instructions for downloading a cert and getting a JWT Token?
-* pvs/signupquery
+* Ask_PVS/Docs
 
 < Yes, Visit http://docs.metamind.io/docs/what-you-need-to-call-api to learn more
-* PVS/Info
+* Answer_PVS/Docs
 
 Perfect thanks!
 * goodbye
 
-No Problem.
-* goodbye
-
-^ Please let me know if you have any other questions
-* goodbye/followup
+< No Problem.
+^ Please let me know if you have any other questions.
+* Confirm/followup
 
 Thats it thanks
-* goodbye/later
+* Confirm/End
