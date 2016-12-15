@@ -3,44 +3,40 @@ title: pvsquestion
 timestamp: 2016-12-11T15:04:33.876915291-08:00
 ---
 
-< Hi
-* greeting
-
+Hi
 how are you
-* turing/human
+* Greeting
 
-< i am good how are you
-* request_confirmation
+< I am good how are you
+* Greeting
 
 very well thanks
-* thanks
+* Greeting
 
 quick question
-* decline/deny
+* Ask_question
 
 < Ok, Let me know how I can help
-* request_confirmation
+* Answer_Question
 
 Can you tell me more about PVS?
-* PVS/Query
+* Ask_PVS/About
 
 < Sure, PVS is our new [Predictive Vision Service](Entity#Product)
-* PVS/Info
-
-< It enables users to build image recognition applications through custom classification
-* PVS/Info
+^
+< PVS enables users to easily build image recognition applications through our simple custom classification API
+^
+< You can sign up by visiting MetaMind.io and clicking on the sign-up button in the top right corner
+* Answer_PVS/Info
 
 Is Predictive Vision currently available?
-* PVS/Query
-
-Yes, We are currently in an Open Pilot.
-* turing/human
+* Ask_PVS/Availability
 
 ^ Users can sign up by visiting MetaMind.io and clicking on the sign up button in the top right corner
-* provide/instructions
+* Answer_PVS/HomePage
 
 Is there Documentation available?
-* turing/human
+* Ask_PVS/Docs
 
 < yes you can read more about the service, navigate through walk through documents, and start a project at [http://docs.metamind.io/v1/docs](documentation_link)
-* provide/instructions
+* Answer_PVS/Docs
