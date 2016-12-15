@@ -30,7 +30,7 @@ Perfect thanks!
 
 < No Problem.
 ^ Please let me know if you have any other questions.
-* Confirm/followup
+* Confirm_Completion/Follow_Up
 
-Thats it thanks
-* Confirm/End
+Thats it, Thanks.
+* affirmative/conclusion
