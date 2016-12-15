@@ -12,7 +12,7 @@ Hi
 How can I join the predictive services pilot
 * Ask_PVS/signup
 
-< PVS is currently in an open pilot.
+< PVS is currently available.
 ^ Users can sign up at http://metamind.io/signup and authenticate with both their Force.com or Heroku credentials
 * Answer_PVS/Signup
 
