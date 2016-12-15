@@ -20,7 +20,7 @@ The [Predictive Vision Service](product)
 
 ^ [PVS](product) is currently available.
 ^ Users can sign up at http://metamind.io/signup and authenticate with both their Force.com or Heroku credentials
-* Answer_PS/Signup
+* Answer_PS/PVS_Signup
 
 thanks, are there [instructions](docs) for downloading a cert and getting a JWT Token?
 * Ask_PS/Docs
