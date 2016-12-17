@@ -91,7 +91,8 @@ exports.handle = (client) => {
     streams: {
       goodbye: handleGoodbye,
       greeting: handleGreeting,
-      main: 'onboarding',
+      main: 'collectProduct',
+      main: 'collectProduct',
       onboarding: [sayHello],
       end: [untrained],
     },
