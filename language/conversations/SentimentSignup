@@ -3,20 +3,9 @@ title: PSSentimentLogin
 timestamp: 2016-12-11T16:02:34.885945809-08:00
 ---
 
-Hi
-* greeting
 
-< Hi, How can I help?
-* greeting
-
-How can I [join](signup) the predictive services pilot
-* Ask_PS/signup
-
-< Which Predictive Service are you interested in?
-* Prompt/Product
-
-The [Predictive Sentiment Service](product)
-* ask_PS/conditions
+How can I sign up for the Sentiment Service
+*Ask_PS/Sentiment_signup
 
 ^ [Sentiment](product) is not currently available.
 ^ Interested Users can go visit Einstein.com to learn more about our intelligent services.
