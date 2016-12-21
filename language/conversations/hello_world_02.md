@@ -19,6 +19,3 @@ Are you human?
 
 Bye.
 * goodbye
-
-< Apologies, but this app needs to go back to school!
-* apology/untrained
