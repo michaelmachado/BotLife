@@ -9,8 +9,8 @@ exports.handle = (client) => {
 
     prompt() {
       client.addResponse('welcome')
-      client.addResponse('provide/documentation', {
-        documentation_link: 'http://docs.init.ai',
+      client.addResponse('welcome/Intro', {
+        documentation_link: 'http://metamind.io',
       })
       client.addResponse('provide/instructions')
 
@@ -83,16 +83,17 @@ exports.handle = (client) => {
     classifications: {
       // map inbound message classifications to names of streams
     goodbye: 'goodbye',
-    greeting: 'greeting'
     },
     autoResponses: {
       // configure responses to be automatically sent as predicted by the machine learning model
+      Answer_PS/Docs: {
+      minimumConfidence: 0.1
+    },
+    Answer_PS/Sentiment_Signup: {}, // Default minimum confidence
     },
     streams: {
       goodbye: handleGoodbye,
-      greeting: handleGreeting,
-      main: 'collectProduct',
-      main: 'collectProduct',
+      main: 'onboarding',
       onboarding: [sayHello],
       end: [untrained],
     },
