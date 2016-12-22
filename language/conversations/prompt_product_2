@@ -1,8 +1,8 @@
 How can I [join](signup) the predictive services pilot
-* Ask_PS/signup
+* ask_ps/signup
 
 < Which Predictive Service are you interested in?
-* Prompt/Product
+* prompt/product
 
 The [Predictive Sentiment Service](product)
-* ask_PS/conditions
+* ask_ps/conditions
