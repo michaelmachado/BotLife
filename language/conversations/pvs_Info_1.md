@@ -9,5 +9,5 @@ Can you tell me more about [PVS](Product)?
 < Sure, PVS is our new [Predictive Vision Service](Entity#Product).
 ^ PVS enables users to easily build image recognition applications through our simple custom classification API.
 ^ You can sign up by visiting MetaMind.io and clicking on the sign-up button in the top right corner
-* Answer_ps/pvs_info
+* answer_ps/pvs_info
 
